@@ -2,4 +2,4 @@ pushplus_token: 668b2b29363d46e98db754d8b59f0422
 refresh_token: 853680483cc14b2d8bf9660e67465ff8
 bilibili_cookie: 123456abc ## B站cookie
 kk_cookie: 123456abc ##夸克网盘cookie
-jd_cookie: 123456abc ##京东cookie
+jd_cookie: pt_pin=jd_4ba4d890f542d pt_token=a3dr97v4
